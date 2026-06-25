@@ -21,7 +21,7 @@ REGIONS = {
     },
     "BD": {
         "jwt_url": "https://papajwt.vercel.app/kirito?uid=4363457346&password=SENKU_692491",
-        "api_endpoint": "https://clientbp.ggblueshark.com/GetPlayerPersonalShow"
+        "api_endpoint": "https://clientbp.ggpolarbear.com/GetPlayerPersonalShow"
     },
     "PK": {
         "jwt_url": "https://raihan-access-to-jwt.vercel.app/token?uid=4363456802&password=SENKU_692458",
